@@ -46,7 +46,7 @@ export default function TrainingGenerator() {
   };
 
   return (
-    <Card className="w-48 max-w-md mx-auto">
+    <Card className="w-full max-w-md mx-auto">
       <CardHeader>
         <CardTitle className="text-[#8661C1] text-2xl font-bold text-center">
           Generate
